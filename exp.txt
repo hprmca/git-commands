@@ -6,3 +6,5 @@ amma
 nana
 tamudu
 baba
+amar
+akbar
